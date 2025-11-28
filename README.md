@@ -1,5 +1,5 @@
 # Hi, I'am Asaduddin<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-🥷Aspiring Software Engineer<br>AI & ML Enthusiast | Full Stack Developer (Python, React, Node.js) <br>Passionate About Building Intelligent Digital Solutions<br>Studied Computer Science/AIML at the SRM University, India.<br>I love to code.<br>Currently learning Full-Stack Web Development!
+👩🏻‍💻Aspiring Software Engineer<br>👾AI & ML Enthusiast | Full Stack Developer (Python, React, Node.js) <br>👻Passionate About Building Intelligent Digital Solutions<br>👩🏻‍🎓Studied Computer Science/AIML at the SRM University, India.<br>💀I love to code.<br>💭Currently learning Full-Stack Web Development!
 
 <img align='center' src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa241ZWdxMHdoNW1xbXpkZDQwNXRlNWdlMGV2cnRwcDE5azZlb2d5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/451shsqh5nJ9UqDElR/giphy.gif" width="150">
 
